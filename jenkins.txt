@@ -1,5 +1,3 @@
-#this is the pipeline script
-
 // This shows a simple build wrapper example, using the AnsiColor plugin.
 node {
     // This displays colors using the 'xterm' ansi color map.
